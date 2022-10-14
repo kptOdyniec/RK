@@ -13,7 +13,7 @@ int main()
     cout << "Dla równania kwadratowego postaci ax^2 + bx + c = 0 wczytaj kolejno:\n";
     cout << "a = ";
     cin >> a;
-    cout << "\na = ";
+    cout << "\nb = ";
     cin >> b;
     cout << "\nc = ";
     cin >> c;
